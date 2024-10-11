@@ -1,0 +1,12 @@
+C:\WebCommercial\WebApiCommercial\Model\bin\Debug\net5.0\Model.deps.json
+C:\WebCommercial\WebApiCommercial\Model\bin\Debug\net5.0\Model.dll
+C:\WebCommercial\WebApiCommercial\Model\bin\Debug\net5.0\Model.pdb
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\Model.dll
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\refint\Model.dll
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\Model.pdb
+C:\WebCommercial\WebApiCommercial\Model\obj\Debug\net5.0\ref\Model.dll

@@ -1,0 +1,592 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebCommercial\\WebApiCommercial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|c:\\webcommercial\\webapicommercial\\webapicommercial\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|solutionrelative:webapicommercial\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|c:\\webcommercial\\webapicommercial\\webapicommercial\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|solutionrelative:webapicommercial\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\salesmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\salesmanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|c:\\webcommercial\\webapicommercial\\service\\salesmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|solutionrelative:service\\salesmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\saleitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\saleitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|c:\\webcommercial\\webapicommercial\\model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|solutionrelative:model\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|c:\\webcommercial\\webapicommercial\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\AppData\\Local\\SourceServer\\44ad5ec4977e6b6c24ab7508bdff0bb7f282b4af522dca4164c8e583e2edaca7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|c:\\webcommercial\\webapicommercial\\webapicommercial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|solutionrelative:webapicommercial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|c:\\webcommercial\\webapicommercial\\webapicommercial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|solutionrelative:webapicommercial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|c:\\webcommercial\\webapicommercial\\webapicommercial\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|solutionrelative:webapicommercial\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|c:\\webcommercial\\webapicommercial\\service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|solutionrelative:service\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\closuresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\closuresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\AppData\\Local\\SourceServer\\5ebf2821fc2948c985ebabb7843a1ad38b22bdf0fd420afec94cd27f1a595ea3\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|c:\\webcommercial\\webapicommercial\\service\\closuresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|solutionrelative:service\\closuresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|c:\\webcommercial\\webapicommercial\\webapicommercial\\controllers\\closurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBB70D-BAA9-485D-B7DE-6F5835D01EE7}|WebApiCommercial\\WebApiCommercial.csproj|solutionrelative:webapicommercial\\controllers\\closurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\migrations\\20231003120033_add collun closures odometerfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20231003120033_add collun closures odometerfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|c:\\webcommercial\\webapicommercial\\model\\closure\\closures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|solutionrelative:model\\closure\\closures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\migrations\\20231002195239_add collun closures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20231002195239_add collun closures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|c:\\webcommercial\\webapicommercial\\model\\closure\\closuresdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|solutionrelative:model\\closure\\closuresdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|c:\\webcommercial\\webapicommercial\\model\\dto\\closuresresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|solutionrelative:model\\dto\\closuresresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|c:\\webcommercial\\webapicommercial\\model\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|solutionrelative:model\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\migrations\\20230919150524_alter collunm km to decimal truncate d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20230919150524_alter collunm km to decimal truncate d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\migrations\\20230919144240_alter collunm km to decimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20230919144240_alter collunm km to decimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\migrations\\20230919150010_alter collunm km to decimal truncate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20230919150010_alter collunm km to decimal truncate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\AppData\\Local\\SourceServer\\af0d3ec04c787e633200307b46f85be9e44eff0b10cd1474ce54ab4d9ffec111\\src\\EFCore.Relational\\Storage\\RelationalCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|c:\\webcommercial\\webapicommercial\\model\\filters\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17456F36-E387-45F6-81D6-8FD996B3F141}|Model\\Model.csproj|solutionrelative:model\\filters\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\migrations\\20230919122112_alter collunm km.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\migrations\\20230919122112_alter collunm km.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\AppData\\Local\\SourceServer\\d7ac7b3b6a439e09d377d23041b5d9d5cdf6b5c885d9c84769466e22b2ba8385\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|c:\\webcommercial\\webapicommercial\\service\\saleitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEFFFF-4C65-40E4-896C-AAA841C204EE}|Service\\Service.csproj|solutionrelative:service\\saleitemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|c:\\webcommercial\\webapicommercial\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06EBED4-35B6-4122-A048-88D2BB218BE4}|Repository\\Repository.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:570320140:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1731547669:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:492110617:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApiCommercial\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApiCommercial\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwEIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T12:31:59.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesmanRepository.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\SalesmanRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SalesmanRepository.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\SalesmanRepository.cs",
+              "RelativeToolTip": "Repository\\SalesmanRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T13:16:00.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Monitor.CoreCLR.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\5ebf2821fc2948c985ebabb7843a1ad38b22bdf0fd420afec94cd27f1a595ea3\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\5ebf2821fc2948c985ebabb7843a1ad38b22bdf0fd420afec94cd27f1a595ea3\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ToolTip": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\5ebf2821fc2948c985ebabb7843a1ad38b22bdf0fd420afec94cd27f1a595ea3\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "RelativeToolTip": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\5ebf2821fc2948c985ebabb7843a1ad38b22bdf0fd420afec94cd27f1a595ea3\\src\\coreclr\\System.Private.CoreLib\\src\\System\\Threading\\Monitor.CoreCLR.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAArwJ4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T12:20:57.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Startup.cs",
+              "RelativeDocumentMoniker": "WebApiCommercial\\Startup.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Startup.cs",
+              "RelativeToolTip": "WebApiCommercial\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T12:30:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SaleRepository.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\SaleRepository.cs",
+              "RelativeToolTip": "Repository\\SaleRepository.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAswJoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T13:16:18.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Service\\SaleService.cs",
+              "RelativeDocumentMoniker": "Service\\SaleService.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Service\\SaleService.cs",
+              "RelativeToolTip": "Service\\SaleService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T13:15:04.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesmanService.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Service\\SalesmanService.cs",
+              "RelativeDocumentMoniker": "Service\\SalesmanService.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Service\\SalesmanService.cs",
+              "RelativeToolTip": "Service\\SalesmanService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T13:15:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleItemsRepository.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\SaleItemsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SaleItemsRepository.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\SaleItemsRepository.cs",
+              "RelativeToolTip": "Repository\\SaleItemsRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T13:15:39.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAACYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T18:49:40.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Model\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "Model\\AuthenticateResponse.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Model\\AuthenticateResponse.cs",
+              "RelativeToolTip": "Model\\AuthenticateResponse.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T18:51:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\44ad5ec4977e6b6c24ab7508bdff0bb7f282b4af522dca4164c8e583e2edaca7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\44ad5ec4977e6b6c24ab7508bdff0bb7f282b4af522dca4164c8e583e2edaca7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\44ad5ec4977e6b6c24ab7508bdff0bb7f282b4af522dca4164c8e583e2edaca7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "RelativeToolTip": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\44ad5ec4977e6b6c24ab7508bdff0bb7f282b4af522dca4164c8e583e2edaca7\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAkwLQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T15:20:36.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-09T18:12:10.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Repository\\ContextBase.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\ContextBase.cs",
+              "RelativeToolTip": "Repository\\ContextBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:59:02.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiCommercial\\appsettings.Development.json",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiCommercial\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-09T20:40:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCommercial\\Program.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Program.cs",
+              "RelativeToolTip": "WebApiCommercial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T12:30:22.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiCommercial\\appsettings.json",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\appsettings.json",
+              "RelativeToolTip": "WebApiCommercial\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-09T20:40:30.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClosuresDetail.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Model\\Closure\\ClosuresDetail.cs",
+              "RelativeDocumentMoniker": "Model\\Closure\\ClosuresDetail.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Model\\Closure\\ClosuresDetail.cs",
+              "RelativeToolTip": "Model\\Closure\\ClosuresDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T19:56:49.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T18:50:30.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClosuresResponse.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Model\\DTO\\ClosuresResponse.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\ClosuresResponse.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Model\\DTO\\ClosuresResponse.cs",
+              "RelativeToolTip": "Model\\DTO\\ClosuresResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T18:24:43.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClosuresService.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Service\\ClosuresService.cs",
+              "RelativeDocumentMoniker": "Service\\ClosuresService.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Service\\ClosuresService.cs",
+              "RelativeToolTip": "Service\\ClosuresService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAArwGUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T18:06:24.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClosuresRepository.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\ClosuresRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ClosuresRepository.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\ClosuresRepository.cs",
+              "RelativeToolTip": "Repository\\ClosuresRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwDAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T18:15:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClosuresController.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Controllers\\ClosuresController.cs",
+              "RelativeDocumentMoniker": "WebApiCommercial\\Controllers\\ClosuresController.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\WebApiCommercial\\Controllers\\ClosuresController.cs",
+              "RelativeToolTip": "WebApiCommercial\\Controllers\\ClosuresController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAIA0wC0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-13T21:12:26.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20231003120033_add collun closures odometerfinal.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20231003120033_add collun closures odometerfinal.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20231003120033_add collun closures odometerfinal.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20231003120033_add collun closures odometerfinal.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20231003120033_add collun closures odometerfinal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-03T12:00:34.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20231002195239_add collun closures.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20231002195239_add collun closures.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20231002195239_add collun closures.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20231002195239_add collun closures.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20231002195239_add collun closures.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-02T19:52:40.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Closures.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Model\\Closure\\Closures.cs",
+              "RelativeDocumentMoniker": "Model\\Closure\\Closures.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Model\\Closure\\Closures.cs",
+              "RelativeToolTip": "Model\\Closure\\Closures.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T12:16:29.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthenticateModel.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Model\\AuthenticateModel.cs",
+              "RelativeDocumentMoniker": "Model\\AuthenticateModel.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Model\\AuthenticateModel.cs",
+              "RelativeToolTip": "Model\\AuthenticateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T12:31:52.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20230919150010_alter collunm km to decimal truncate.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919150010_alter collunm km to decimal truncate.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20230919150010_alter collunm km to decimal truncate.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919150010_alter collunm km to decimal truncate.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20230919150010_alter collunm km to decimal truncate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T15:00:11.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20230919144240_alter collunm km to decimal.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919144240_alter collunm km to decimal.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20230919144240_alter collunm km to decimal.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919144240_alter collunm km to decimal.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20230919144240_alter collunm km to decimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T14:42:41.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20230919150524_alter collunm km to decimal truncate d.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919150524_alter collunm km to decimal truncate d.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20230919150524_alter collunm km to decimal truncate d.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919150524_alter collunm km to decimal truncate d.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20230919150524_alter collunm km to decimal truncate d.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T15:05:25.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\d7ac7b3b6a439e09d377d23041b5d9d5cdf6b5c885d9c84769466e22b2ba8385\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\d7ac7b3b6a439e09d377d23041b5d9d5cdf6b5c885d9c84769466e22b2ba8385\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\d7ac7b3b6a439e09d377d23041b5d9d5cdf6b5c885d9c84769466e22b2ba8385\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeToolTip": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\d7ac7b3b6a439e09d377d23041b5d9d5cdf6b5c885d9c84769466e22b2ba8385\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAewLYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T11:05:54.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RelationalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\af0d3ec04c787e633200307b46f85be9e44eff0b10cd1474ce54ab4d9ffec111\\src\\EFCore.Relational\\Storage\\RelationalCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\af0d3ec04c787e633200307b46f85be9e44eff0b10cd1474ce54ab4d9ffec111\\src\\EFCore.Relational\\Storage\\RelationalCommand.cs",
+              "ToolTip": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\af0d3ec04c787e633200307b46f85be9e44eff0b10cd1474ce54ab4d9ffec111\\src\\EFCore.Relational\\Storage\\RelationalCommand.cs",
+              "RelativeToolTip": "..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\af0d3ec04c787e633200307b46f85be9e44eff0b10cd1474ce54ab4d9ffec111\\src\\EFCore.Relational\\Storage\\RelationalCommand.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAcwIEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T14:42:53.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Model\\Filters\\Filters.cs",
+              "RelativeDocumentMoniker": "Model\\Filters\\Filters.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Model\\Filters\\Filters.cs",
+              "RelativeToolTip": "Model\\Filters\\Filters.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwBsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T14:13:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20230919122112_alter collunm km.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919122112_alter collunm km.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20230919122112_alter collunm km.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\Migrations\\20230919122112_alter collunm km.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20230919122112_alter collunm km.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T12:21:12.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA6wDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T11:17:00.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SaleItemsService.cs",
+              "DocumentMoniker": "C:\\WebCommercial\\WebApiCommercial\\Service\\SaleItemsService.cs",
+              "RelativeDocumentMoniker": "Service\\SaleItemsService.cs",
+              "ToolTip": "C:\\WebCommercial\\WebApiCommercial\\Service\\SaleItemsService.cs",
+              "RelativeToolTip": "Service\\SaleItemsService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-19T11:18:15.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
